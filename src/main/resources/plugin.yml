@@ -1,0 +1,7 @@
+name: Test
+version: '${project.version}'
+main: dev.waradu.test.Main
+api-version: '1.18'
+
+commands:
+  test:
